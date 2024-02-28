@@ -25,6 +25,7 @@ samples, guidance on mobile development, and a full API reference.
 
 
 - resultado
-- ![image](https://github.com/veronicaruizav/p10-ListaCard-6J/assets/143547403/b789eea0-ce07-4903-a35b-dd48e1beda20)
+- ![image](https://github.com/veronicaruizav/p10-ListaCard-6J/assets/143547403/5117363d-aecc-4fc9-9c6b-2d95182dc7cd)
+
 
 
